@@ -1,0 +1,163 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "Player",
+					"jsonFile" : "directory-Player-Debug-8583c720b5f893cf1c49.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Player",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Enemy",
+					"jsonFile" : "directory-Enemy-Debug-9ac6ea7a0b58fe1b75ac.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Enemy",
+					"targetIndexes" : 
+					[
+						1
+					]
+				},
+				{
+					"build" : "Combat",
+					"jsonFile" : "directory-Combat-Debug-8f1eb6611004e6f8221e.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Combat",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "Utils",
+					"jsonFile" : "directory-Utils-Debug-bed32b7478db85617514.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "Utils",
+					"targetIndexes" : 
+					[
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "Practica_4_Examen_",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 3,
+					"id" : "Combat::@b9d0b1fcc4063f2cbecc",
+					"jsonFile" : "target-Combat-Debug-5d03a2f0e90860d1de6c.json",
+					"name" : "Combat",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Enemy::@97531e71fec8078a5ceb",
+					"jsonFile" : "target-Enemy-Debug-a6e9b94e16c9412ce5f0.json",
+					"name" : "Enemy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Player::@b3817ea904e8d8913b24",
+					"jsonFile" : "target-Player-Debug-a0f2a91730c217f15cac.json",
+					"name" : "Player",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Practica_4_Examen_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Practica_4_Examen_-Debug-094bb536a78b1fe0b3c1.json",
+					"name" : "Practica_4_Examen_",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "Utils::@63186210bb9289bb1152",
+					"jsonFile" : "target-Utils-Debug-0ea8b79ee827e3dcd0ef.json",
+					"name" : "Utils",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug",
+		"source" : "/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

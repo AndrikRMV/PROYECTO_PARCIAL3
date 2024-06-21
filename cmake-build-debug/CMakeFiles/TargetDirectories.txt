@@ -1,0 +1,15 @@
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/CMakeFiles/Practica_4_Examen_.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Player/CMakeFiles/Player.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Player/CMakeFiles/edit_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Player/CMakeFiles/rebuild_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Enemy/CMakeFiles/Enemy.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Enemy/CMakeFiles/edit_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Enemy/CMakeFiles/rebuild_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Combat/CMakeFiles/Combat.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Combat/CMakeFiles/edit_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Combat/CMakeFiles/rebuild_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Utils/CMakeFiles/Utils.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Utils/CMakeFiles/edit_cache.dir
+/Users/andrikmeneses/CLionProjects/Practica 4_Examen? 6/cmake-build-debug/Utils/CMakeFiles/rebuild_cache.dir
